@@ -1,0 +1,10 @@
+two : two.png : adjective : 1.1
+three : three.png : adjective : 1.1
+four : four.png : adjective : 1.1
+five : five.png : adjective : 1.1
+six : six.png : adjective : 1.1
+seven : seven.png : adjective : 1.1
+eight : eight.png : adjective : 1.1
+nine : nine.png : adjective : 1.1
+ten : ten.png : adjective : 1.1
+one : one.png : adjective : 1.1
